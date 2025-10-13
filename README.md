@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Formação em andamento:<br>- Análise e Desenvolvimento de Sistemas | PUC MINAS  <br><br>🎯 Principais tecnologias:* <br>HTML5 | CSS3 | JavaScript | C#  <br><br>🎲 Curiosidades:<br>- Gosto de jogar no PC quando não estou estudando código.<br>- Estudando programação entre uma xícara de café e outra. ☕<br><br>📫 Como me encontrar:<br>Linkedin: https://www.linkedin.com/in/guilherme-vinicius-valbonetti-586a69255/<br><br>✨ Código é poesia lógica.</p>
+<p align="left">📚 Formação em andamento:<br>- Análise e Desenvolvimento de Sistemas | PUC MINAS  <br><br>🎯 Principais tecnologias:* <br>HTML5 | CSS3 | JavaScript | C# | SQL <br><br>🎲 Curiosidades:<br>- Gosto de jogar no PC quando não estou estudando código.<br>- Estudando programação entre uma xícara de café e outra. ☕<br><br>📫 Como me encontrar:<br>Linkedin: https://www.linkedin.com/in/guilherme-vinicius-valbonetti-586a69255/<br><br>✨ Código é poesia lógica.</p>
 
 ###
 
