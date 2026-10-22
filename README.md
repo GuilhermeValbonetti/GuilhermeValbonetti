@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="banner-guilherme.PNG" alt="Banner Guilherme Valbonetti" width="100%" />
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=34&pause=1000&color=6C47FF&center=true&vCenter=true&width=700&height=60&lines=Guilherme+Vinicius+Valbonetti;ADS+%7C+PUC+Minas;Desenvolvimento+%7C+Dados+%7C+IA+%F0%9F%9A%80" alt="Apresentação animada" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Vinicius-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vinicius-valbonetti-586a69255/)
@@ -123,10 +127,6 @@ Já trabalhei com **React, Next.js, Node.js, SQL Server e PostgreSQL**, além de
 
 <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&theme=midnight-purple&locale=pt-br&hide_border=true" width="48%" alt="Estatísticas do GitHub" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true" width="48%" alt="Linguagens mais usadas" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=high-contrast&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es" width="95%" alt="Gráfico de contribuições" />
 
 </div>
 
