@@ -2,8 +2,6 @@
 
 <img src="banner-guilherme.PNG" alt="Banner Guilherme Valbonetti" width="100%" />
 
-<br><br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=34&pause=1000&color=6C47FF&center=true&vCenter=true&width=700&height=60&lines=Guilherme+Vinicius+Valbonetti;ADS+%7C+PUC+Minas;Desenvolvimento+%7C+Dados+%7C+IA+%F0%9F%9A%80" alt="Apresentação animada" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Vinicius-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vinicius-valbonetti-586a69255/)
@@ -14,20 +12,20 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou o **Guilherme**, tenho 21 anos, curso **Análise e Desenvolvimento de Sistemas na PUC Minas** e atuo como **estagiário de Governança de TI na Prefeitura Municipal de Contagem**.
+Sou o **Guilherme**, tenho 21 anos, curso **Análise e Desenvolvimento de Sistemas na PUC Minas** e atuo como **estagiário de Sistemas Corporativos na Prefeitura Municipal de Contagem**.
 
 Gosto de desenvolver soluções completas, desde a modelagem do banco de dados e a construção de APIs até a criação das interfaces. Tenho interesse em **desenvolvimento de software, dados e inteligência artificial**, e busco colocar em prática o que aprendo por meio de projetos acadêmicos e desafios de tecnologia.
 
-Já trabalhei com **React, Next.js, Node.js, SQL Server e PostgreSQL**, além de explorar o desenvolvimento mobile com **React Native**.
+Já trabalhei com **React, Next.js, Node.js, SQL Server e PostgreSQL**, além de explorar o desenvolvimento mobile com **React Native** e desenvolver funcionalidades com **Python e Flask**.
 
 ---
 
 ## 🔭 Atualmente
 
 - 🎓 Cursando o **4º período de Análise e Desenvolvimento de Sistemas** na PUC Minas.
-- 💼 Atuando em **Governança de TI** na Prefeitura Municipal de Contagem.
+- 💼 Atuando em **Sistemas Corporativos** na Prefeitura Municipal de Contagem.
 - 🌱 Desenvolvendo o **PlantAI**, aplicativo que utiliza IA para auxiliar na identificação de doenças e pragas em plantas.
-- 📚 Aprimorando meus conhecimentos em **Java, React, banco de dados e desenvolvimento de APIs**.
+- 📚 Aprimorando meus conhecimentos em **Java, React, Python, banco de dados e desenvolvimento de APIs**.
 - 🚀 Buscando evoluir profissionalmente nas áreas de **Desenvolvimento e Dados**.
 
 ---
@@ -52,6 +50,8 @@ Já trabalhei com **React, Next.js, Node.js, SQL Server e PostgreSQL**, além de
 
 ### 🏋️ FitHub `Desenvolvimento Web`
 > Projeto de plataforma fitness com interfaces para clientes e profissionais, incluindo personal trainers e nutricionistas. Desenvolvido com foco em autenticação, gerenciamento de perfis e organização das funcionalidades do sistema.
+>
+> 🏆 **Premiado como Melhor Trabalho Interdisciplinar do 3º período — PUC Minas Barreiro.**
 
 `Next.js` `React` `TypeScript` `CSS Modules`
 
@@ -103,13 +103,15 @@ Já trabalhei com **React, Next.js, Node.js, SQL Server e PostgreSQL**, além de
 
 ## 💼 Experiência
 
-**Estagiário de Governança de TI · Prefeitura Municipal de Contagem** *(mai/2026 – atual)*
+**Estagiário de Sistemas Corporativos · Prefeitura Municipal de Contagem** *(mai/2026 – atual)*
 
-- Apoio às atividades de **Governança de Tecnologia da Informação**.
-- Desenvolvimento e manutenção de **formulários HTML** para processos e serviços internos.
-- Elaboração de **relatórios, atas e documentação técnica**.
-- Participação em iniciativas de melhoria e digitalização de processos.
-- Estudos e colaboração em projetos de desenvolvimento web, incluindo **React**.
+- Desenvolvimento e manutenção de **formulários HTML** para serviços e processos internos, incluindo demandas integradas ao **SEI**.
+- Participação em atividades de **desenvolvimento web**, com estudos e colaboração em interfaces utilizando **React**.
+- Atuação em funcionalidade de **CRUD com Python e Flask**, envolvendo gerenciamento de tipos de perfis e exclusão lógica (*soft delete*).
+- Utilização do **Figma** para apoiar a prototipação e a organização visual de interfaces.
+- Apoio à **análise de requisitos, ajustes e homologação de formulários** conforme as demandas das áreas solicitantes.
+- Elaboração de **relatórios, atas e documentação técnica** e apoio a rotinas de governança de TI.
+- Participação em iniciativas de **melhoria e digitalização de processos** da Prefeitura.
 
 ---
 
@@ -125,8 +127,8 @@ Já trabalhei com **React, Next.js, Node.js, SQL Server e PostgreSQL**, além de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&theme=midnight-purple&locale=pt-br&hide_border=true" width="48%" alt="Estatísticas do GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true" width="48%" alt="Linguagens mais usadas" />
+<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeValbonetti&show_icons=true&include_all_commits=true&theme=midnight-purple&locale=pt-br&hide_border=true" width="48%" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeValbonetti&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true" width="48%" alt="Linguagens mais usadas" />
 
 </div>
 
