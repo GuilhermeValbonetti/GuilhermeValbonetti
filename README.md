@@ -1,20 +1,8 @@
-
 <div align="center">
 
-# 👾 Olá, seja bem-vindo(a) ao meu GitHub!
+<img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=34&pause=1000&color=6C47FF&center=true&vCenter=true&width=700&height=60&lines=Guilherme+Vinicius+Valbonetti;ADS+%7C+PUC+Minas;Desenvolvimento+%7C+Dados+%7C+IA+%F0%9F%9A%80" alt="Apresentação animada" />
 
-### Guilherme Vinicius
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9D00FF&center=true&vCenter=true&width=550&lines=Estudante+de+ADS+na+PUC+Minas;Estagi%C3%A1rio+de+Governan%C3%A7a+de+TI;Desenvolvimento+%7C+Dados+%7C+Tecnologia;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
-
-<br>
-
-<a href="https://www.linkedin.com/in/guilherme-vinicius-valbonetti-586a69255/">
-  <img src="https://img.shields.io/badge/LinkedIn-9D00FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Vinicius-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vinicius-valbonetti-586a69255/)
 
 </div>
 
@@ -22,110 +10,138 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! 👋 Meu nome é **Guilherme**, tenho **21 anos** e sou estudante de **Análise e Desenvolvimento de Sistemas na PUC Minas**.
+Sou o **Guilherme**, tenho 21 anos, curso **Análise e Desenvolvimento de Sistemas na PUC Minas** e atuo como **estagiário de Governança de TI na Prefeitura Municipal de Contagem**.
 
-Atualmente, sou **estagiário de Governança de TI na Prefeitura Municipal de Contagem**, onde tenho a oportunidade de desenvolver meus conhecimentos e participar de projetos relacionados à tecnologia.
+Gosto de desenvolver soluções completas, desde a modelagem do banco de dados e a construção de APIs até a criação das interfaces. Tenho interesse em **desenvolvimento de software, dados e inteligência artificial**, e busco colocar em prática o que aprendo por meio de projetos acadêmicos e desafios de tecnologia.
 
-Tenho interesse nas áreas de **Desenvolvimento de Software, Banco de Dados e Inteligência Artificial**, buscando constantemente aprender novas tecnologias e aprimorar minhas habilidades.
-
-<details>
-<summary>📌 Um pouco mais sobre mim</summary>
-
-<br>
-
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na PUC Minas — 4º período.
-- 💼 Estagiário de **Governança de TI** na Prefeitura de Contagem.
-- 🚀 Interesse em **Desenvolvimento de Software e Dados**.
-- 🧠 Entusiasta de **Inteligência Artificial** e suas aplicações.
-- 📚 Estudando e aprimorando meus conhecimentos em programação.
-- 🏆 Projeto acadêmico premiado como **Melhor Trabalho Interdisciplinar** do 2º período.
-- 🎮 Gosto de jogar no PC nas horas vagas.
-- ☕ Estudando programação entre uma xícara de café e outra.
-
-</details>
+Já trabalhei com **React, Next.js, Node.js, SQL Server e PostgreSQL**, além de explorar o desenvolvimento mobile com **React Native**.
 
 ---
 
-## 🛠️ Linguagens e ferramentas
+## 🔭 Atualmente
+
+- 🎓 Cursando o **4º período de Análise e Desenvolvimento de Sistemas** na PUC Minas.
+- 💼 Atuando em **Governança de TI** na Prefeitura Municipal de Contagem.
+- 🌱 Desenvolvendo o **PlantAI**, aplicativo que utiliza IA para auxiliar na identificação de doenças e pragas em plantas.
+- 📚 Aprimorando meus conhecimentos em **Java, React, banco de dados e desenvolvimento de APIs**.
+- 🚀 Buscando evoluir profissionalmente nas áreas de **Desenvolvimento e Dados**.
+
+---
+
+## 🚀 Projetos
+
+### 💰 PoupeMais `Full Stack`
+> Sistema de controle financeiro pessoal com cadastro de transações, histórico financeiro, gráficos, simulações e autenticação com verificação por e-mail. Desenvolvido como projeto interdisciplinar na PUC Minas.
+>
+> 🏆 **Premiado como Melhor Trabalho Interdisciplinar do 2º período — PUC Minas Barreiro.**
+
+`HTML` `CSS` `JavaScript` `Bootstrap` `Node.js` `Express` `SQL Server`
+
+---
+
+### 🌱 PlantAI `Mobile + IA`
+> Aplicativo mobile que utiliza inteligência artificial para analisar imagens de plantas, identificar possíveis doenças e pragas e apresentar recomendações. Projeto desenvolvido com integração entre aplicativo, API e banco de dados.
+
+`React Native` `Expo` `TypeScript` `Node.js` `Express` `PostgreSQL` `IA`
+
+---
+
+### 🏋️ FitHub `Desenvolvimento Web`
+> Projeto de plataforma fitness com interfaces para clientes e profissionais, incluindo personal trainers e nutricionistas. Desenvolvido com foco em autenticação, gerenciamento de perfis e organização das funcionalidades do sistema.
+
+`Next.js` `React` `TypeScript` `CSS Modules`
+
+---
 
 <div align="center">
 
-### 💻 Linguagens
+## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,cs,html,css" />
-
-### ⚙️ Frameworks e tecnologias
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,flask" />
-
-### 🗄️ Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-<br>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-
-### 🔧 Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h4>🎨 Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap" height="45" alt="Tecnologias frontend" />
+    </td>
+    <td align="center" width="50%">
+      <h4>⚙️ Backend</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,java,cs,python,flask" height="45" alt="Tecnologias backend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>📱 Mobile</h4>
+      <img src="https://skillicons.dev/icons?i=react,ts" height="45" alt="Tecnologias mobile" />
+      <p>React Native · Expo</p>
+    </td>
+    <td align="center" width="50%">
+      <h4>🗄️ Banco de Dados</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" height="45" alt="Bancos de dados" />
+      <br>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🔧 Ferramentas</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="45" alt="Ferramentas" />
+    </td>
+    <td align="center" width="50%">
+      <h4>📋 Gestão e Modelagem</h4>
+      <p>Jira · Bizagi · Miro</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+## 💼 Experiência
 
-### 💰 PoupeMais
-Sistema de controle financeiro pessoal desenvolvido como projeto acadêmico.
+**Estagiário de Governança de TI · Prefeitura Municipal de Contagem** *(mai/2026 – atual)*
 
-- Cadastro e gerenciamento de transações.
-- Gráficos e acompanhamento financeiro.
-- Simulações financeiras.
-- Autenticação e verificação por e-mail.
-
-**Tecnologias:** HTML, CSS, JavaScript, Node.js, Express e SQL Server.
-
-🏆 **Premiado como Melhor Trabalho Interdisciplinar — PUC Minas Barreiro.**
-
-### 🌱 PlantAI
-Aplicação que utiliza Inteligência Artificial para auxiliar na identificação de doenças e pragas em plantas por meio de imagens.
-
-**Tecnologias:** React Native, Expo, Node.js, TypeScript, PostgreSQL e IA.
-
-### 🏋️ FitHub
-Projeto de plataforma fitness voltada para a interação entre clientes e profissionais da área.
-
-**Tecnologias:** Next.js, React, TypeScript e SQL Server.
+- Apoio às atividades de **Governança de Tecnologia da Informação**.
+- Desenvolvimento e manutenção de **formulários HTML** para processos e serviços internos.
+- Elaboração de **relatórios, atas e documentação técnica**.
+- Participação em iniciativas de melhoria e digitalização de processos.
+- Estudos e colaboração em projetos de desenvolvimento web, incluindo **React**.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🎓 Formação & Certificações
+
+- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — PUC Minas *(previsão de conclusão: jul/2027)*.
+- 🗄️ **Formação Microsoft SQL Server 2022** — Alura *(concluída)*.
+- 🌐 **Desenvolvimento Front-end: HTML, CSS, JavaScript e React** — Udemy *(em andamento)*.
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=false&title_color=9D00FF&icon_color=9D00FF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=false&title_color=9D00FF" />
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&theme=midnight-purple&locale=pt-br&hide_border=true" width="48%" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true" width="48%" alt="Linguagens mais usadas" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&ring=9D00FF&fire=9D00FF&currStreakLabel=9D00FF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=high-contrast&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es" width="95%" alt="Gráfico de contribuições" />
 
 </div>
 
 ---
 
-
-## 📫 Onde me encontrar
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/guilherme-vinicius-valbonetti-586a69255/">
-  <img src="https://img.shields.io/badge/LinkedIn-Guilherme_Vinicius-9D00FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### 🚀 Em constante evolução
 
-<br><br>
+Aberto a oportunidades e novos desafios nas áreas de **Desenvolvimento de Software e Dados**. Gosto de aprender, colaborar e transformar ideias em soluções reais.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D00FF&center=true&vCenter=true&width=500&lines=Foi+um+prazer+ter+voc%C3%AA+por+aqui!;Volte+sempre!" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_conversar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vinicius-valbonetti-586a69255/)
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C47FF&center=true&vCenter=true&width=500&lines=Foi+um+prazer+ter+voc%C3%AA+por+aqui!;Volte+sempre!" alt="Mensagem de despedida" />
 
 </div>
-
