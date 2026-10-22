@@ -22,17 +22,17 @@ HTML5 | CSS3 | JavaScript | TypeScript | React | Bootstrap
 
 
 ⚙️ <b>Back-end:</b><br>
-Node.js | C#
+| Java | JavaScript | C#
 
 
 
 🗄️ <b>Banco de Dados:</b><br>
-SQL | MySQL
+MySQL
 
 
 
 🛠️ <b>Ferramentas:</b><br>
-Figma
+Figma | Jira | Bizzagi | Miro
 
 
 <br>
