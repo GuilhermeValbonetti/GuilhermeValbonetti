@@ -2,7 +2,7 @@
 
 <img src="banner-guilherme.PNG" alt="Banner Guilherme Valbonetti" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=34&pause=1000&color=6C47FF&center=true&vCenter=true&width=700&height=60&lines=Guilherme+Vinicius+Valbonetti;ADS+%7C+PUC+Minas;Desenvolvimento+%7C+Dados+%7C+IA+%F0%9F%9A%80" alt="Apresentação animada" />
+<img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=34&pause=1000&color=6C47FF&center=true&vCenter=true&width=700&height=60&lines=Guilherme+Vinicius+Valbonetti;ADS+%7C+PUC+Minas;Desenvolvimento+%7C+Dados+%7C+IA" alt="Apresentação animada" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Vinicius-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vinicius-valbonetti-586a69255/)
 
@@ -22,7 +22,7 @@ Já trabalhei com **React, Next.js, Node.js, SQL Server e PostgreSQL**, além de
 
 ## 🔭 Atualmente
 
-- 🎓 Cursando o **4º período de Análise e Desenvolvimento de Sistemas** na PUC Minas.
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na PUC Minas.
 - 💼 Atuando em **Sistemas Corporativos** na Prefeitura Municipal de Contagem.
 - 🌱 Desenvolvendo o **PlantAI**, aplicativo que utiliza IA para auxiliar na identificação de doenças e pragas em plantas.
 - 📚 Aprimorando meus conhecimentos em **Java, React, Python, banco de dados e desenvolvimento de APIs**.
