@@ -115,11 +115,9 @@ Já trabalhei com **React, Next.js, Node.js, SQL Server e PostgreSQL**, além de
 
 ---
 
-## 🎓 Formação & Certificações
+## 🎓 Formação 
 
-- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — PUC Minas *(previsão de conclusão: jul/2027)*.
-- 🗄️ **Formação Microsoft SQL Server 2022** — Alura *(concluída)*.
-- 🌐 **Desenvolvimento Front-end: HTML, CSS, JavaScript e React** — Udemy *(em andamento)*.
+-  **Tecnólogo em Análise e Desenvolvimento de Sistemas** — PUC Minas *(previsão de conclusão: dez/2027)*.
 
 ---
 
