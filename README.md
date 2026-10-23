@@ -142,6 +142,20 @@ Aberto a oportunidades e novos desafios nas áreas de **Desenvolvimento de Softw
 
 <br>
 
+<div>
+  <pre>
+    _    __      ____                    __  __  _ 
+   | |  / /___ _/ / /_  ____  ____  ___  / /_/ /_(_)
+   | | / / __ `/ / __ \/ __ \/ __ \/ _ \/ __/ __/ /
+   | |/ / /_/ / / /_/ / /_/ / / / /  __/ /_/ /_/ /
+   |___/\__,_/_/_.___/\____/_/ /_/\___/\__/\__/_/
+ 
+ 
+  </pre>
+</div>
+
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C47FF&center=true&vCenter=true&width=500&lines=Foi+um+prazer+ter+voc%C3%AA+por+aqui!;Volte+sempre!" alt="Mensagem de despedida" />
 
 </div>
