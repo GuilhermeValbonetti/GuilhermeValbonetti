@@ -2,7 +2,7 @@
 
 <img src="banner-guilherme.PNG" alt="Banner Guilherme Valbonetti" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=34&pause=1000&color=6C47FF&center=true&vCenter=true&width=700&height=60&lines=Guilherme+Vinicius+Valbonetti;ADS+%7C+PUC+Minas;Desenvolvimento+%7C+Dados+%7C+IA" alt="Apresentação animada" />
+<img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=34&pause=1000&color=6C47FF&center=true&vCenter=true&width=700&height=60&lines=Guilherme+Valbonetti;ADS+%7C+PUC+Minas;Desenvolvimento+%7C+Dados+%7C+IA" alt="Apresentação animada" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Vinicius-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vinicius-valbonetti-586a69255/)
 
